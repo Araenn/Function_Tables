@@ -1,3 +1,8 @@
+/*This program captures the number of elements N of an int table (the table is initially defined with a maximum MAX size that N must not exceed), 
+fills in the table with values and displays it. The program then deletes all occurrences of the value 0 in the table, 
+compacts the elements and displays the modified table.*/
+
+
 #include <stdio.h>
 #include <math.h>
 
